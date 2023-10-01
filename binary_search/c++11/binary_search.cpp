@@ -1,3 +1,8 @@
+/*
+    In the 
+    Algorithm: Binary Search
+    yu.shao@amd.com
+*/
 #include <iostream>
 #include <vector>
 
